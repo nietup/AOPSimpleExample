@@ -1,0 +1,1 @@
+AOP example where aspect uses its pointcut method's argument
